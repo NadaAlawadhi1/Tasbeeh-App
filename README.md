@@ -1,16 +1,22 @@
-# sub7a
+🕌 تسبيح | Tasbeeh App
+A simple and elegant digital counter app for Tasbeeh, Zikr, and Dhikr built with Flutter. Perfect for counting recitations like SubhanAllah, Alhamdulillah, Allahu Akbar, and more.
 
-A new Flutter project.
+## 📱 Screenshots
 
-## Getting Started
+<img src="tasbeeh%20screens/1.png" width="300" alt="Tasbeeh App Screenshot">
+<img src="tasbeeh%20screens/2.png" width="300" alt="Tasbeeh App Screenshot">
+<img src="tasbeeh%20screens/3.png" width="300" alt="Tasbeeh App Screenshot">
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔢 Tap-to-count digital Tasbeeh
+- 🔄 Reset counter anytime
+- 🎯 Set goals with different options (e.g. 33, 100, 1000)
+- 🎨 Choose from multiple theme colors
+- 💾 All data (count, selected goal, and theme) saved using SharedPreferences
+- 🔊 Optional vibration feedback on tap 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛠️ Built With
+Flutter 🐦
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart 💙
