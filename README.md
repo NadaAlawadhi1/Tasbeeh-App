@@ -17,6 +17,7 @@ A simple and elegant digital counter app for Tasbeeh, Zikr, and Dhikr built with
 - 🔊 Optional vibration feedback on tap 
 
 🛠️ Built With
+
 Flutter 🐦
 
 Dart 💙
